@@ -7,9 +7,6 @@ BrainFlix was a project completed during my time at BrainStation, providing hand
 
 [Frontend](https://github.com/jclairelee/BrainFlix) | [Backend](https://github.com/jclairelee/Brainflix-API)
 
-## Screenshot
-
-![Screenshot](./src/assets/images/brainFlix.jpg)
 
 ## Key Features
 
